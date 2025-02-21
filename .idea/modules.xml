@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/104_fibonacci/104_fibonacci.iml" filepath="$PROJECT_DIR$/104_fibonacci/104_fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/104_pyramidFor/104_pyramidFor.iml" filepath="$PROJECT_DIR$/104_pyramidFor/104_pyramidFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/114_vogalconsoant/114_vogalconsoant.iml" filepath="$PROJECT_DIR$/114_vogalconsoant/114_vogalconsoant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/115_harshadnumber/115_harshadnumber.iml" filepath="$PROJECT_DIR$/115_harshadnumber/115_harshadnumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/117_calculatoradvanced/117_calculatoradvanced.iml" filepath="$PROJECT_DIR$/117_calculatoradvanced/117_calculatoradvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/123_arraySumMinMax/123_arraySumMinMax.iml" filepath="$PROJECT_DIR$/123_arraySumMinMax/123_arraySumMinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/124_rearrangingArray/124_rearrangingArray.iml" filepath="$PROJECT_DIR$/124_rearrangingArray/124_rearrangingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/128_advancedarray/128_advancedarray.iml" filepath="$PROJECT_DIR$/128_advancedarray/128_advancedarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/135-2dArray/135-2dArray.iml" filepath="$PROJECT_DIR$/135-2dArray/135-2dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/140_sumDiagonal/140_sumDiagonal.iml" filepath="$PROJECT_DIR$/140_sumDiagonal/140_sumDiagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/143_spaceTravelArrayList/143_spaceTravelArrayList.iml" filepath="$PROJECT_DIR$/143_spaceTravelArrayList/143_spaceTravelArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/144_spaceAdvancedArrays/144_spaceAdvancedArrays.iml" filepath="$PROJECT_DIR$/144_spaceAdvancedArrays/144_spaceAdvancedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/154-scrambleGame/154-scrambleGame.iml" filepath="$PROJECT_DIR$/154-scrambleGame/154-scrambleGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/156_validadEmail/156_validadEmail.iml" filepath="$PROJECT_DIR$/156_validadEmail/156_validadEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/157_AdvancedTodoListMethods/157_AdvancedTodoListMethods.iml" filepath="$PROJECT_DIR$/157_AdvancedTodoListMethods/157_AdvancedTodoListMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/160_recursiveMethod/160_recursiveMethod.iml" filepath="$PROJECT_DIR$/160_recursiveMethod/160_recursiveMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/163_creatingNewLanguage/163_creatingNewLanguage.iml" filepath="$PROJECT_DIR$/163_creatingNewLanguage/163_creatingNewLanguage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/173_mirrorWord/173_mirrorWord.iml" filepath="$PROJECT_DIR$/173_mirrorWord/173_mirrorWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/177_removeDuplicate/177_removeDuplicate.iml" filepath="$PROJECT_DIR$/177_removeDuplicate/177_removeDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/179_numberDigitsRecursive/179_numberDigitsRecursive.iml" filepath="$PROJECT_DIR$/179_numberDigitsRecursive/179_numberDigitsRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/185_gameNumberGuess/185_gameNumberGuess.iml" filepath="$PROJECT_DIR$/185_gameNumberGuess/185_gameNumberGuess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/190_toDoApp/190_toDoApp.iml" filepath="$PROJECT_DIR$/190_toDoApp/190_toDoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/196_oopIntroduction/196_oopIntroduction.iml" filepath="$PROJECT_DIR$/196_oopIntroduction/196_oopIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/200_DefaultAndParameterizedConstructor/200_DefaultAndParameterizedConstructor.iml" filepath="$PROJECT_DIR$/200_DefaultAndParameterizedConstructor/200_DefaultAndParameterizedConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/203_studentPractice/203_studentPractice.iml" filepath="$PROJECT_DIR$/203_studentPractice/203_studentPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/207_mathQuiz/207_mathQuiz.iml" filepath="$PROJECT_DIR$/207_mathQuiz/207_mathQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" filepath="$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" filepath="$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse_Udemy.iml" filepath="$PROJECT_DIR$/JavaCourse_Udemy.iml" />
+    </modules>
+  </component>
+</project>
