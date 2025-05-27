@@ -27,7 +27,13 @@
       <module fileurl="file://$PROJECT_DIR$/196_oopIntroduction/196_oopIntroduction.iml" filepath="$PROJECT_DIR$/196_oopIntroduction/196_oopIntroduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/200_DefaultAndParameterizedConstructor/200_DefaultAndParameterizedConstructor.iml" filepath="$PROJECT_DIR$/200_DefaultAndParameterizedConstructor/200_DefaultAndParameterizedConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/203_studentPractice/203_studentPractice.iml" filepath="$PROJECT_DIR$/203_studentPractice/203_studentPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/206_student/206_student.iml" filepath="$PROJECT_DIR$/206_student/206_student.iml" />
       <module fileurl="file://$PROJECT_DIR$/207_mathQuiz/207_mathQuiz.iml" filepath="$PROJECT_DIR$/207_mathQuiz/207_mathQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/210_mathQuiz/210_mathQuiz.iml" filepath="$PROJECT_DIR$/210_mathQuiz/210_mathQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/216_objectAsParameter/216_objectAsParameter.iml" filepath="$PROJECT_DIR$/216_objectAsParameter/216_objectAsParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/220_Dice/220_Dice.iml" filepath="$PROJECT_DIR$/220_Dice/220_Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/225_inheritance/225_inheritance.iml" filepath="$PROJECT_DIR$/225_inheritance/225_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/230_multilvlInheritance/230_multilvlInheritance.iml" filepath="$PROJECT_DIR$/230_multilvlInheritance/230_multilvlInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" filepath="$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" filepath="$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCourse_Udemy.iml" filepath="$PROJECT_DIR$/JavaCourse_Udemy.iml" />
