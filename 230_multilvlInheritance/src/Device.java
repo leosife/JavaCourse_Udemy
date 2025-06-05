@@ -3,8 +3,8 @@ public class Device {
     String model;
 
 
-    public Device(String brande, String model){
-        this.brand = brande;
+    public Device(String brand, String model){
+        this.brand = brand;
         this.model = model;
     }
 
