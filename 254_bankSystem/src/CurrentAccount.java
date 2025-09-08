@@ -19,11 +19,16 @@ public class CurrentAccount extends BankAccount{
     }
 
     @Override
-    void transfer(double amount, int accountNumber, String accountHolderName) {
-        if(getBalance() < 100){
-            System.out.println("Insufficient funds. Minimum balance of $100 required");
-        } else {
+    void transfer(double amount,int fromAccountNumber,int toAccountNumber) {
+        if(getBalance() - amount >= -500){
             setBalance(-amount);
+        } else {
+            System.out.println("Overdraft limit exceeded");
+        }
+        if(getBalance()<0){
+            System.out.println("Overdraft accepted");
+            System.out.println("Transfer succeed");
+            showBalance();
         }
     }
 }

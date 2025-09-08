@@ -13,8 +13,9 @@ public class SavingsAccount extends BankAccount{
     }
 
     @Override
-    void transfer(double amount, int accountNumber, String accountHolderName) {
+    void transfer(double amount,int fromAccountNumber,int toAccountNumber) {
         if(getBalance() < 100){
+            System.out.println("Transfer failed");
             System.out.println("Insufficient funds. Minimum balance of $100 required");
         } else {
             setBalance(-amount);

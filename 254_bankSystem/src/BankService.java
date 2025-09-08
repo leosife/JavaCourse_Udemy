@@ -17,7 +17,7 @@ public class BankService {
         name = sc.nextLine();
 
         if (listaclientes.isEmpty()) {
-            account = 1000001;
+            account = 10;
         } else {
             account = listaclientes.getLast().getAccountNumber() + 1;
         }
@@ -78,6 +78,11 @@ public class BankService {
     }
      public void withdraw(double value){
         listaclientes.get(getClient()).withdraw(value);
+     }
+
+     public void transfer(double value,int fromacc, int toacc){
+         listaclientes.get(getClient()).transfer(value,fromacc,toacc);
+
      }
 
 }

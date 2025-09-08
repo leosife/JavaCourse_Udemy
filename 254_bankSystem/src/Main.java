@@ -31,10 +31,13 @@ public class Main {
                     System.out.println("How much would you like to withdraw?: ");
                     value = sc.nextDouble();
                     bank.withdraw(value);
+                    break;
                 case 4:
                 case 5:
                     bank.getBalance();
+                    break;
                 case 6:
+                    System.out.println("Thanks for using our Bank");
             }
         } while(choice != 6);
 

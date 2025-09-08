@@ -12,10 +12,11 @@
      }
     public void deposit(double amount){
         balance += amount;
+        showBalance();
     }
 
     public abstract void withdraw(double amount);
-    abstract void transfer(double amount,int accountNumber,String accountHolderName);
+    abstract void transfer(double amount,int fromAccountNumber,int toAccountNumber);
 
     public int getAccountNumber(){
         return accountNumber;
