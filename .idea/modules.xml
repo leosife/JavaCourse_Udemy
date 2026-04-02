@@ -43,6 +43,11 @@
       <module fileurl="file://$PROJECT_DIR$/288_rethrowing/288_rethrowing.iml" filepath="$PROJECT_DIR$/288_rethrowing/288_rethrowing.iml" />
       <module fileurl="file://$PROJECT_DIR$/292_customExceptions/292_customExceptions.iml" filepath="$PROJECT_DIR$/292_customExceptions/292_customExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/294_passwordValidator/294_passwordValidator.iml" filepath="$PROJECT_DIR$/294_passwordValidator/294_passwordValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/302_storingDataOutputStream/302_storingDataOutputStream.iml" filepath="$PROJECT_DIR$/302_storingDataOutputStream/302_storingDataOutputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/304_readingDataInputStream/304_readingDataInputStream.iml" filepath="$PROJECT_DIR$/304_readingDataInputStream/304_readingDataInputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/309_checkingFileExist/309_checkingFileExist.iml" filepath="$PROJECT_DIR$/309_checkingFileExist/309_checkingFileExist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/315_serialization/315_serialization.iml" filepath="$PROJECT_DIR$/315_serialization/315_serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/316_deserialization/316_deserialization.iml" filepath="$PROJECT_DIR$/316_deserialization/316_deserialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" filepath="$PROJECT_DIR$/85_ternaryOperator/85_ternaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" filepath="$PROJECT_DIR$/86_galaxyWeather/86_galaxyWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCourse_Udemy.iml" filepath="$PROJECT_DIR$/JavaCourse_Udemy.iml" />

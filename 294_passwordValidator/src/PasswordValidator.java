@@ -1,5 +1,5 @@
 public class PasswordValidator {
-    public void validadePassword(String password, String confirmPassword)
+    public void validatePassword(String password, String confirmPassword)
             throws WeakPasswordException, PasswordMismatchException {
         if (password.length() < 8) {
             throw new WeakPasswordException("Password must be as least 8 characters");
@@ -25,7 +25,7 @@ public class PasswordValidator {
                 hasDigit = true;
 
             } else if (specialCharacters.indexOf(ch) >= 0) {
-                hasLowerCase = true;
+                hasSpecialCharacter = true;
 
             }
 
